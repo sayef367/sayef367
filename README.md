@@ -1,6 +1,6 @@
 [![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)](https://github.com/sayef367)
 <h1 align="center">Hi 👋, I'm Md Sayful Islam</h1>
-<h3 align="center">A passionate Full-stack MERN developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-stack NextJs and MERN developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayef367&label=Profile%20views&color=0e75b6&style=flat" alt="sayef367" /> </p>
