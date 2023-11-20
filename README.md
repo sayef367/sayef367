@@ -31,8 +31,8 @@
   <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="express" width="40" height="40"/> 
   </a>
-  <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://next-auth.js.org/img/logo/logo-sm.png](https://www.datocms-assets.com/75941/1657702911-vercel-logotype-light_20211228160702_0.png)" alt="express" width="40" height="40"/> 
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.datocms-assets.com/75941/1657702911-vercel-logotype-light_20211228160702_0.png" alt="vercel" width="40" height="40"/> 
   </a>
   <a href="[https://nodejs.org](https://vercel.com/)" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
