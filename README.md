@@ -1,6 +1,6 @@
 [![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)](https://github.com/sayef367)
 <h1 align="center">Hi 👋, I'm Md Sayful Islam</h1>
-<h3 align="center">A passionate Full-stack NextJs and MERN Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full-stack Next.js and MERN Developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayef367&label=Profile%20views&color=0e75b6&style=flat" alt="sayef367" /> </p>
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sayef367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayef367" height="30" width="40" /></a>
+<a href="https://twitter.com/sayef367" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="sayef367" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/mir-md-sayeful-islam-a927401b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mir-md-sayeful-islam-a927401b3" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdsayefulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsayefulislam" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sayef367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sayef367/" height="30" width="40" /></a>
