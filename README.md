@@ -9,7 +9,7 @@
 
 - 👨🏼‍💻 I’m currently working on **Full-Stack Next.js and MERN Development**
 
-- 💬 Ask me about **JavaScript(ES6+), MERN, Next.js**
+- 💬 Ask me about **JavaScript||TypeScript, React||Next.js, Node.js||Bun **
 
 - 📧 How to reach me **mirsayeful367@gmail.com**
 
