@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayef367&label=Profile%20views&color=0e75b6&style=flat" alt="sayef367" /> </p>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=sayef367&label=Profile%20views&color=0e75b6&style=flat" alt="sayef367" /> </div>
 
-<p align="left"> <a href="https://twitter.com/sayef367" target="blank"><img src="https://img.shields.io/twitter/follow/sayef367?logo=twitter&style=for-the-badge" alt="sayef367" /></a> </p>
+<div align="left"> <a href="https://twitter.com/sayef367" target="blank"><img src="https://img.shields.io/twitter/follow/sayef367?logo=twitter&style=for-the-badge" alt="sayef367" /></a> </div>
 
-- 👨🏼‍💻 I’m currently working on **Full-Stack Next.js and MERN Development**
+- 👨🏼‍💻 I’m currently working on **Front-End Engineer and as well as skill of backend Development**
 
-- 💬 Ask me about **JavaScript||TypeScript, React||Next.js, Node.js||Bun **
+- 💬 Ask me about **JavaScript, TypeScript || React, Next, ReactNative || NestJS, ExpressJS || Node, Bun || Monorepo **
 
 - 📧 How to reach me **mirsayeful367@gmail.com**
 
