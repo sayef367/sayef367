@@ -1,5 +1,5 @@
 [![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)](https://github.com/sayef367)
-<h1 align="center">Hi 👋, I'm Md Sayful Islam</h1>
+<h1 align="center">Hi 👋, I'm Md Sayeful Islam</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
@@ -9,7 +9,7 @@
 
 - 👨🏼‍💻 I’m currently working on **Front-End Engineer and as well as skill of backend Development**
 
-- 💬 Ask me about **JavaScript, TypeScript || React, Next, ReactNative || NestJS, ExpressJS || Node, Bun || Monorepo **
+- 💬 Ask me about **JavaScript, TypeScript || React, Next.js || ReactNative || NestJS, ExpressJS || Node, Bun || Monorepo **
 
 - 📧 How to reach me **mirsayeful367@gmail.com**
 
@@ -55,9 +55,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="oracle" width="40" height="40"/> 
   </a> 
-  <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="express" width="40" height="40"/> 
-  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="40" height="40"/> 
   </a>
