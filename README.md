@@ -81,7 +81,15 @@
   </a> 
 </div>
 
-<div style="margin-top: 20px; display: flex; gap: 1rem">
-  <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayef367&show_icons=true&locale=en&layout=compact" alt="sayef367" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayef367&" alt="sayef367" />
+<div style="margin-top: 20px; display: flex; flex-direction: row; gap: 1rem;">
+  <img
+      style="height: 195px; width: 35%"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=sayef367&show_icons=true&locale=en&layout=compact"
+      alt="sayef367"
+  />
+  <img
+      style="height: 195px; width: 50%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sayef367&"
+      alt="sayef367"
+  />
 </div>
