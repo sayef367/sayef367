@@ -79,11 +79,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
- 
 </div>
 
-<div><img align="left" style="{height: "200px"; width: "50%"}" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayef367&show_icons=true&locale=en&layout=compact" alt="sayef367" /></div>
-
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayef367&show_icons=true&locale=en" alt="sayef367" /></div>
-
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayef367&" alt="sayef367" /></div>
+<div style="margin-top: 20px;">
+  <img align="left" style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayef367&show_icons=true&locale=en&layout=compact" alt="sayef367" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayef367&" alt="sayef367" />
+</div>
