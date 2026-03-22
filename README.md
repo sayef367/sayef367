@@ -51,7 +51,10 @@
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
-  </a> 
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> 
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" alt="fastapi" width="40" height="40"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="oracle" width="40" height="40"/> 
   </a> 
