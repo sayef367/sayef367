@@ -7,7 +7,7 @@
 
 <div align="left"> <a href="https://twitter.com/sayef367" target="blank"><img src="https://img.shields.io/twitter/follow/sayef367?logo=twitter&style=for-the-badge" alt="sayef367" /></a> </div>
 
-- 👨🏼‍💻 I’m currently working on **Front-End Engineer and as well as skill of backend Development**
+- 👨🏼‍💻 I’m currently working on **Front-End, React Native and as well as skill of backend Development**
 
 - 💬 Ask me about **JavaScript, TypeScript || React, Next.js || ReactNative || NestJS, ExpressJS || Node, Bun || Monorepo **
 
