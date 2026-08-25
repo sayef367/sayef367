@@ -78,8 +78,8 @@
 | Skill | Rating |
 | :--- | :---: |
 | **Front End** | ★★★★★ |
+| **Mobile (React Native)** | ★★★★☆ |
 | **Back End** | ★★★☆☆ |
-| **Mobile App (React Native)** | ★★★★☆ |
 | **AI Engineer** | ★★☆☆☆ |
 
 ---
